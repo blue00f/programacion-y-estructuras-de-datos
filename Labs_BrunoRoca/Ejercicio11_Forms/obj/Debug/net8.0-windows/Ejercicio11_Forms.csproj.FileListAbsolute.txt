@@ -1,0 +1,16 @@
+E:\Escritorio\Programacion\TP_Inicial\Ejercicio11_Forms\bin\Debug\net8.0-windows\Ejercicio11_Forms.exe
+E:\Escritorio\Programacion\TP_Inicial\Ejercicio11_Forms\bin\Debug\net8.0-windows\Ejercicio11_Forms.deps.json
+E:\Escritorio\Programacion\TP_Inicial\Ejercicio11_Forms\bin\Debug\net8.0-windows\Ejercicio11_Forms.runtimeconfig.json
+E:\Escritorio\Programacion\TP_Inicial\Ejercicio11_Forms\bin\Debug\net8.0-windows\Ejercicio11_Forms.dll
+E:\Escritorio\Programacion\TP_Inicial\Ejercicio11_Forms\bin\Debug\net8.0-windows\Ejercicio11_Forms.pdb
+E:\Escritorio\Programacion\TP_Inicial\Ejercicio11_Forms\obj\Debug\net8.0-windows\Ejercicio11_Forms.frmCalculadora.resources
+E:\Escritorio\Programacion\TP_Inicial\Ejercicio11_Forms\obj\Debug\net8.0-windows\Ejercicio11_Forms.csproj.GenerateResource.cache
+E:\Escritorio\Programacion\TP_Inicial\Ejercicio11_Forms\obj\Debug\net8.0-windows\Ejercicio11_Forms.GeneratedMSBuildEditorConfig.editorconfig
+E:\Escritorio\Programacion\TP_Inicial\Ejercicio11_Forms\obj\Debug\net8.0-windows\Ejercicio11_Forms.AssemblyInfoInputs.cache
+E:\Escritorio\Programacion\TP_Inicial\Ejercicio11_Forms\obj\Debug\net8.0-windows\Ejercicio11_Forms.AssemblyInfo.cs
+E:\Escritorio\Programacion\TP_Inicial\Ejercicio11_Forms\obj\Debug\net8.0-windows\Ejercicio11_Forms.csproj.CoreCompileInputs.cache
+E:\Escritorio\Programacion\TP_Inicial\Ejercicio11_Forms\obj\Debug\net8.0-windows\Ejercicio11_Forms.dll
+E:\Escritorio\Programacion\TP_Inicial\Ejercicio11_Forms\obj\Debug\net8.0-windows\refint\Ejercicio11_Forms.dll
+E:\Escritorio\Programacion\TP_Inicial\Ejercicio11_Forms\obj\Debug\net8.0-windows\Ejercicio11_Forms.pdb
+E:\Escritorio\Programacion\TP_Inicial\Ejercicio11_Forms\obj\Debug\net8.0-windows\Ejercicio11_Forms.genruntimeconfig.cache
+E:\Escritorio\Programacion\TP_Inicial\Ejercicio11_Forms\obj\Debug\net8.0-windows\ref\Ejercicio11_Forms.dll

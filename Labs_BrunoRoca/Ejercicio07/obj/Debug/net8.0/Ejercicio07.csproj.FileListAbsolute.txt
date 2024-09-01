@@ -1,0 +1,14 @@
+E:\Escritorio\Programacion\TP_Inicial\Ejercicio07\bin\Debug\net8.0\Ejercicio07.exe
+E:\Escritorio\Programacion\TP_Inicial\Ejercicio07\bin\Debug\net8.0\Ejercicio07.deps.json
+E:\Escritorio\Programacion\TP_Inicial\Ejercicio07\bin\Debug\net8.0\Ejercicio07.runtimeconfig.json
+E:\Escritorio\Programacion\TP_Inicial\Ejercicio07\bin\Debug\net8.0\Ejercicio07.dll
+E:\Escritorio\Programacion\TP_Inicial\Ejercicio07\bin\Debug\net8.0\Ejercicio07.pdb
+E:\Escritorio\Programacion\TP_Inicial\Ejercicio07\obj\Debug\net8.0\Ejercicio07.GeneratedMSBuildEditorConfig.editorconfig
+E:\Escritorio\Programacion\TP_Inicial\Ejercicio07\obj\Debug\net8.0\Ejercicio07.AssemblyInfoInputs.cache
+E:\Escritorio\Programacion\TP_Inicial\Ejercicio07\obj\Debug\net8.0\Ejercicio07.AssemblyInfo.cs
+E:\Escritorio\Programacion\TP_Inicial\Ejercicio07\obj\Debug\net8.0\Ejercicio07.csproj.CoreCompileInputs.cache
+E:\Escritorio\Programacion\TP_Inicial\Ejercicio07\obj\Debug\net8.0\Ejercicio07.dll
+E:\Escritorio\Programacion\TP_Inicial\Ejercicio07\obj\Debug\net8.0\refint\Ejercicio07.dll
+E:\Escritorio\Programacion\TP_Inicial\Ejercicio07\obj\Debug\net8.0\Ejercicio07.pdb
+E:\Escritorio\Programacion\TP_Inicial\Ejercicio07\obj\Debug\net8.0\Ejercicio07.genruntimeconfig.cache
+E:\Escritorio\Programacion\TP_Inicial\Ejercicio07\obj\Debug\net8.0\ref\Ejercicio07.dll

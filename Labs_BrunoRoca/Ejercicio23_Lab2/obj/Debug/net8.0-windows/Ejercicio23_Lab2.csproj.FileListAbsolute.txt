@@ -1,0 +1,16 @@
+E:\Escritorio\Programacion\Labs_BrunoRoca\Ejercicio23_Lab2\bin\Debug\net8.0-windows\Ejercicio23_Lab2.exe
+E:\Escritorio\Programacion\Labs_BrunoRoca\Ejercicio23_Lab2\bin\Debug\net8.0-windows\Ejercicio23_Lab2.deps.json
+E:\Escritorio\Programacion\Labs_BrunoRoca\Ejercicio23_Lab2\bin\Debug\net8.0-windows\Ejercicio23_Lab2.runtimeconfig.json
+E:\Escritorio\Programacion\Labs_BrunoRoca\Ejercicio23_Lab2\bin\Debug\net8.0-windows\Ejercicio23_Lab2.dll
+E:\Escritorio\Programacion\Labs_BrunoRoca\Ejercicio23_Lab2\bin\Debug\net8.0-windows\Ejercicio23_Lab2.pdb
+E:\Escritorio\Programacion\Labs_BrunoRoca\Ejercicio23_Lab2\obj\Debug\net8.0-windows\Ejercicio23_Lab2.Form1.resources
+E:\Escritorio\Programacion\Labs_BrunoRoca\Ejercicio23_Lab2\obj\Debug\net8.0-windows\Ejercicio23_Lab2.csproj.GenerateResource.cache
+E:\Escritorio\Programacion\Labs_BrunoRoca\Ejercicio23_Lab2\obj\Debug\net8.0-windows\Ejercicio23_Lab2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Escritorio\Programacion\Labs_BrunoRoca\Ejercicio23_Lab2\obj\Debug\net8.0-windows\Ejercicio23_Lab2.AssemblyInfoInputs.cache
+E:\Escritorio\Programacion\Labs_BrunoRoca\Ejercicio23_Lab2\obj\Debug\net8.0-windows\Ejercicio23_Lab2.AssemblyInfo.cs
+E:\Escritorio\Programacion\Labs_BrunoRoca\Ejercicio23_Lab2\obj\Debug\net8.0-windows\Ejercicio23_Lab2.csproj.CoreCompileInputs.cache
+E:\Escritorio\Programacion\Labs_BrunoRoca\Ejercicio23_Lab2\obj\Debug\net8.0-windows\Ejercicio23_Lab2.dll
+E:\Escritorio\Programacion\Labs_BrunoRoca\Ejercicio23_Lab2\obj\Debug\net8.0-windows\refint\Ejercicio23_Lab2.dll
+E:\Escritorio\Programacion\Labs_BrunoRoca\Ejercicio23_Lab2\obj\Debug\net8.0-windows\Ejercicio23_Lab2.pdb
+E:\Escritorio\Programacion\Labs_BrunoRoca\Ejercicio23_Lab2\obj\Debug\net8.0-windows\Ejercicio23_Lab2.genruntimeconfig.cache
+E:\Escritorio\Programacion\Labs_BrunoRoca\Ejercicio23_Lab2\obj\Debug\net8.0-windows\ref\Ejercicio23_Lab2.dll

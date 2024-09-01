@@ -1,0 +1,16 @@
+E:\Escritorio\Programacion\TP_Inicial\Ejercicio16_Forms\bin\Debug\net8.0-windows\Ejercicio16_Forms.exe
+E:\Escritorio\Programacion\TP_Inicial\Ejercicio16_Forms\bin\Debug\net8.0-windows\Ejercicio16_Forms.deps.json
+E:\Escritorio\Programacion\TP_Inicial\Ejercicio16_Forms\bin\Debug\net8.0-windows\Ejercicio16_Forms.runtimeconfig.json
+E:\Escritorio\Programacion\TP_Inicial\Ejercicio16_Forms\bin\Debug\net8.0-windows\Ejercicio16_Forms.dll
+E:\Escritorio\Programacion\TP_Inicial\Ejercicio16_Forms\bin\Debug\net8.0-windows\Ejercicio16_Forms.pdb
+E:\Escritorio\Programacion\TP_Inicial\Ejercicio16_Forms\obj\Debug\net8.0-windows\Ejercicio16_Forms.Form1.resources
+E:\Escritorio\Programacion\TP_Inicial\Ejercicio16_Forms\obj\Debug\net8.0-windows\Ejercicio16_Forms.csproj.GenerateResource.cache
+E:\Escritorio\Programacion\TP_Inicial\Ejercicio16_Forms\obj\Debug\net8.0-windows\Ejercicio16_Forms.GeneratedMSBuildEditorConfig.editorconfig
+E:\Escritorio\Programacion\TP_Inicial\Ejercicio16_Forms\obj\Debug\net8.0-windows\Ejercicio16_Forms.AssemblyInfoInputs.cache
+E:\Escritorio\Programacion\TP_Inicial\Ejercicio16_Forms\obj\Debug\net8.0-windows\Ejercicio16_Forms.AssemblyInfo.cs
+E:\Escritorio\Programacion\TP_Inicial\Ejercicio16_Forms\obj\Debug\net8.0-windows\Ejercicio16_Forms.csproj.CoreCompileInputs.cache
+E:\Escritorio\Programacion\TP_Inicial\Ejercicio16_Forms\obj\Debug\net8.0-windows\Ejercicio16_Forms.dll
+E:\Escritorio\Programacion\TP_Inicial\Ejercicio16_Forms\obj\Debug\net8.0-windows\refint\Ejercicio16_Forms.dll
+E:\Escritorio\Programacion\TP_Inicial\Ejercicio16_Forms\obj\Debug\net8.0-windows\Ejercicio16_Forms.pdb
+E:\Escritorio\Programacion\TP_Inicial\Ejercicio16_Forms\obj\Debug\net8.0-windows\Ejercicio16_Forms.genruntimeconfig.cache
+E:\Escritorio\Programacion\TP_Inicial\Ejercicio16_Forms\obj\Debug\net8.0-windows\ref\Ejercicio16_Forms.dll

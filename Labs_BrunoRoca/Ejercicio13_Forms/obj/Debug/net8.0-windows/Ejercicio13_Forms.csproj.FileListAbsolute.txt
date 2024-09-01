@@ -1,0 +1,16 @@
+E:\Escritorio\Programacion\TP_Inicial\Ejercicio13_Forms\bin\Debug\net8.0-windows\Ejercicio13_Forms.exe
+E:\Escritorio\Programacion\TP_Inicial\Ejercicio13_Forms\bin\Debug\net8.0-windows\Ejercicio13_Forms.deps.json
+E:\Escritorio\Programacion\TP_Inicial\Ejercicio13_Forms\bin\Debug\net8.0-windows\Ejercicio13_Forms.runtimeconfig.json
+E:\Escritorio\Programacion\TP_Inicial\Ejercicio13_Forms\bin\Debug\net8.0-windows\Ejercicio13_Forms.dll
+E:\Escritorio\Programacion\TP_Inicial\Ejercicio13_Forms\bin\Debug\net8.0-windows\Ejercicio13_Forms.pdb
+E:\Escritorio\Programacion\TP_Inicial\Ejercicio13_Forms\obj\Debug\net8.0-windows\Ejercicio13_Forms.Form1.resources
+E:\Escritorio\Programacion\TP_Inicial\Ejercicio13_Forms\obj\Debug\net8.0-windows\Ejercicio13_Forms.csproj.GenerateResource.cache
+E:\Escritorio\Programacion\TP_Inicial\Ejercicio13_Forms\obj\Debug\net8.0-windows\Ejercicio13_Forms.GeneratedMSBuildEditorConfig.editorconfig
+E:\Escritorio\Programacion\TP_Inicial\Ejercicio13_Forms\obj\Debug\net8.0-windows\Ejercicio13_Forms.AssemblyInfoInputs.cache
+E:\Escritorio\Programacion\TP_Inicial\Ejercicio13_Forms\obj\Debug\net8.0-windows\Ejercicio13_Forms.AssemblyInfo.cs
+E:\Escritorio\Programacion\TP_Inicial\Ejercicio13_Forms\obj\Debug\net8.0-windows\Ejercicio13_Forms.csproj.CoreCompileInputs.cache
+E:\Escritorio\Programacion\TP_Inicial\Ejercicio13_Forms\obj\Debug\net8.0-windows\Ejercicio13_Forms.dll
+E:\Escritorio\Programacion\TP_Inicial\Ejercicio13_Forms\obj\Debug\net8.0-windows\refint\Ejercicio13_Forms.dll
+E:\Escritorio\Programacion\TP_Inicial\Ejercicio13_Forms\obj\Debug\net8.0-windows\Ejercicio13_Forms.pdb
+E:\Escritorio\Programacion\TP_Inicial\Ejercicio13_Forms\obj\Debug\net8.0-windows\Ejercicio13_Forms.genruntimeconfig.cache
+E:\Escritorio\Programacion\TP_Inicial\Ejercicio13_Forms\obj\Debug\net8.0-windows\ref\Ejercicio13_Forms.dll
