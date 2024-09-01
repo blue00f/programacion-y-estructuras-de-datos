@@ -1,0 +1,14 @@
+C:\Users\Blue\source\repos\TPs\TP1_PracticosEnConsola\Ejercicio07\bin\Debug\net8.0\Ejercicio07.exe
+C:\Users\Blue\source\repos\TPs\TP1_PracticosEnConsola\Ejercicio07\bin\Debug\net8.0\Ejercicio07.deps.json
+C:\Users\Blue\source\repos\TPs\TP1_PracticosEnConsola\Ejercicio07\bin\Debug\net8.0\Ejercicio07.runtimeconfig.json
+C:\Users\Blue\source\repos\TPs\TP1_PracticosEnConsola\Ejercicio07\bin\Debug\net8.0\Ejercicio07.dll
+C:\Users\Blue\source\repos\TPs\TP1_PracticosEnConsola\Ejercicio07\bin\Debug\net8.0\Ejercicio07.pdb
+C:\Users\Blue\source\repos\TPs\TP1_PracticosEnConsola\Ejercicio07\obj\Debug\net8.0\Ejercicio07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Blue\source\repos\TPs\TP1_PracticosEnConsola\Ejercicio07\obj\Debug\net8.0\Ejercicio07.AssemblyInfoInputs.cache
+C:\Users\Blue\source\repos\TPs\TP1_PracticosEnConsola\Ejercicio07\obj\Debug\net8.0\Ejercicio07.AssemblyInfo.cs
+C:\Users\Blue\source\repos\TPs\TP1_PracticosEnConsola\Ejercicio07\obj\Debug\net8.0\Ejercicio07.csproj.CoreCompileInputs.cache
+C:\Users\Blue\source\repos\TPs\TP1_PracticosEnConsola\Ejercicio07\obj\Debug\net8.0\Ejercicio07.dll
+C:\Users\Blue\source\repos\TPs\TP1_PracticosEnConsola\Ejercicio07\obj\Debug\net8.0\refint\Ejercicio07.dll
+C:\Users\Blue\source\repos\TPs\TP1_PracticosEnConsola\Ejercicio07\obj\Debug\net8.0\Ejercicio07.pdb
+C:\Users\Blue\source\repos\TPs\TP1_PracticosEnConsola\Ejercicio07\obj\Debug\net8.0\Ejercicio07.genruntimeconfig.cache
+C:\Users\Blue\source\repos\TPs\TP1_PracticosEnConsola\Ejercicio07\obj\Debug\net8.0\ref\Ejercicio07.dll
