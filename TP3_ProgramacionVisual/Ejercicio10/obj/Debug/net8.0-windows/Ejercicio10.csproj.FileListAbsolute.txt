@@ -1,0 +1,17 @@
+C:\Users\Blue\source\repos\TPs\TP3_ProgramacionVisual\Ejercicio10\bin\Debug\net8.0-windows\Ejercicio10.exe
+C:\Users\Blue\source\repos\TPs\TP3_ProgramacionVisual\Ejercicio10\bin\Debug\net8.0-windows\Ejercicio10.deps.json
+C:\Users\Blue\source\repos\TPs\TP3_ProgramacionVisual\Ejercicio10\bin\Debug\net8.0-windows\Ejercicio10.runtimeconfig.json
+C:\Users\Blue\source\repos\TPs\TP3_ProgramacionVisual\Ejercicio10\bin\Debug\net8.0-windows\Ejercicio10.dll
+C:\Users\Blue\source\repos\TPs\TP3_ProgramacionVisual\Ejercicio10\bin\Debug\net8.0-windows\Ejercicio10.pdb
+C:\Users\Blue\source\repos\TPs\TP3_ProgramacionVisual\Ejercicio10\obj\Debug\net8.0-windows\Ejercicio10.csproj.GenerateResource.cache
+C:\Users\Blue\source\repos\TPs\TP3_ProgramacionVisual\Ejercicio10\obj\Debug\net8.0-windows\Ejercicio10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Blue\source\repos\TPs\TP3_ProgramacionVisual\Ejercicio10\obj\Debug\net8.0-windows\Ejercicio10.AssemblyInfoInputs.cache
+C:\Users\Blue\source\repos\TPs\TP3_ProgramacionVisual\Ejercicio10\obj\Debug\net8.0-windows\Ejercicio10.AssemblyInfo.cs
+C:\Users\Blue\source\repos\TPs\TP3_ProgramacionVisual\Ejercicio10\obj\Debug\net8.0-windows\Ejercicio10.csproj.CoreCompileInputs.cache
+C:\Users\Blue\source\repos\TPs\TP3_ProgramacionVisual\Ejercicio10\obj\Debug\net8.0-windows\Ejercicio10.sourcelink.json
+C:\Users\Blue\source\repos\TPs\TP3_ProgramacionVisual\Ejercicio10\obj\Debug\net8.0-windows\Ejercicio10.dll
+C:\Users\Blue\source\repos\TPs\TP3_ProgramacionVisual\Ejercicio10\obj\Debug\net8.0-windows\refint\Ejercicio10.dll
+C:\Users\Blue\source\repos\TPs\TP3_ProgramacionVisual\Ejercicio10\obj\Debug\net8.0-windows\Ejercicio10.pdb
+C:\Users\Blue\source\repos\TPs\TP3_ProgramacionVisual\Ejercicio10\obj\Debug\net8.0-windows\Ejercicio10.genruntimeconfig.cache
+C:\Users\Blue\source\repos\TPs\TP3_ProgramacionVisual\Ejercicio10\obj\Debug\net8.0-windows\ref\Ejercicio10.dll
+C:\Users\Blue\source\repos\TPs\TP3_ProgramacionVisual\Ejercicio10\obj\Debug\net8.0-windows\Ejercicio10.frmConversorTemperatura.resources

@@ -1,0 +1,17 @@
+C:\Users\Blue\source\repos\TPs\TP3_ProgramacionVisual\Ejercicio06\bin\Debug\net8.0-windows\Ejercicio06.exe
+C:\Users\Blue\source\repos\TPs\TP3_ProgramacionVisual\Ejercicio06\bin\Debug\net8.0-windows\Ejercicio06.deps.json
+C:\Users\Blue\source\repos\TPs\TP3_ProgramacionVisual\Ejercicio06\bin\Debug\net8.0-windows\Ejercicio06.runtimeconfig.json
+C:\Users\Blue\source\repos\TPs\TP3_ProgramacionVisual\Ejercicio06\bin\Debug\net8.0-windows\Ejercicio06.dll
+C:\Users\Blue\source\repos\TPs\TP3_ProgramacionVisual\Ejercicio06\bin\Debug\net8.0-windows\Ejercicio06.pdb
+C:\Users\Blue\source\repos\TPs\TP3_ProgramacionVisual\Ejercicio06\obj\Debug\net8.0-windows\Ejercicio06.csproj.GenerateResource.cache
+C:\Users\Blue\source\repos\TPs\TP3_ProgramacionVisual\Ejercicio06\obj\Debug\net8.0-windows\Ejercicio06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Blue\source\repos\TPs\TP3_ProgramacionVisual\Ejercicio06\obj\Debug\net8.0-windows\Ejercicio06.AssemblyInfoInputs.cache
+C:\Users\Blue\source\repos\TPs\TP3_ProgramacionVisual\Ejercicio06\obj\Debug\net8.0-windows\Ejercicio06.AssemblyInfo.cs
+C:\Users\Blue\source\repos\TPs\TP3_ProgramacionVisual\Ejercicio06\obj\Debug\net8.0-windows\Ejercicio06.csproj.CoreCompileInputs.cache
+C:\Users\Blue\source\repos\TPs\TP3_ProgramacionVisual\Ejercicio06\obj\Debug\net8.0-windows\Ejercicio06.sourcelink.json
+C:\Users\Blue\source\repos\TPs\TP3_ProgramacionVisual\Ejercicio06\obj\Debug\net8.0-windows\Ejercicio06.dll
+C:\Users\Blue\source\repos\TPs\TP3_ProgramacionVisual\Ejercicio06\obj\Debug\net8.0-windows\refint\Ejercicio06.dll
+C:\Users\Blue\source\repos\TPs\TP3_ProgramacionVisual\Ejercicio06\obj\Debug\net8.0-windows\Ejercicio06.pdb
+C:\Users\Blue\source\repos\TPs\TP3_ProgramacionVisual\Ejercicio06\obj\Debug\net8.0-windows\Ejercicio06.genruntimeconfig.cache
+C:\Users\Blue\source\repos\TPs\TP3_ProgramacionVisual\Ejercicio06\obj\Debug\net8.0-windows\ref\Ejercicio06.dll
+C:\Users\Blue\source\repos\TPs\TP3_ProgramacionVisual\Ejercicio06\obj\Debug\net8.0-windows\Ejercicio06.frmSucesionFibonacci.resources

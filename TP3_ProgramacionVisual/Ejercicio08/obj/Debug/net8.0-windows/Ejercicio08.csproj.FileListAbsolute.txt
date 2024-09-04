@@ -1,0 +1,17 @@
+C:\Users\Blue\source\repos\TPs\TP3_ProgramacionVisual\Ejercicio08\bin\Debug\net8.0-windows\Ejercicio08.exe
+C:\Users\Blue\source\repos\TPs\TP3_ProgramacionVisual\Ejercicio08\bin\Debug\net8.0-windows\Ejercicio08.deps.json
+C:\Users\Blue\source\repos\TPs\TP3_ProgramacionVisual\Ejercicio08\bin\Debug\net8.0-windows\Ejercicio08.runtimeconfig.json
+C:\Users\Blue\source\repos\TPs\TP3_ProgramacionVisual\Ejercicio08\bin\Debug\net8.0-windows\Ejercicio08.dll
+C:\Users\Blue\source\repos\TPs\TP3_ProgramacionVisual\Ejercicio08\bin\Debug\net8.0-windows\Ejercicio08.pdb
+C:\Users\Blue\source\repos\TPs\TP3_ProgramacionVisual\Ejercicio08\obj\Debug\net8.0-windows\Ejercicio08.frmTiradaDeUnDado.resources
+C:\Users\Blue\source\repos\TPs\TP3_ProgramacionVisual\Ejercicio08\obj\Debug\net8.0-windows\Ejercicio08.csproj.GenerateResource.cache
+C:\Users\Blue\source\repos\TPs\TP3_ProgramacionVisual\Ejercicio08\obj\Debug\net8.0-windows\Ejercicio08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Blue\source\repos\TPs\TP3_ProgramacionVisual\Ejercicio08\obj\Debug\net8.0-windows\Ejercicio08.AssemblyInfoInputs.cache
+C:\Users\Blue\source\repos\TPs\TP3_ProgramacionVisual\Ejercicio08\obj\Debug\net8.0-windows\Ejercicio08.AssemblyInfo.cs
+C:\Users\Blue\source\repos\TPs\TP3_ProgramacionVisual\Ejercicio08\obj\Debug\net8.0-windows\Ejercicio08.csproj.CoreCompileInputs.cache
+C:\Users\Blue\source\repos\TPs\TP3_ProgramacionVisual\Ejercicio08\obj\Debug\net8.0-windows\Ejercicio08.sourcelink.json
+C:\Users\Blue\source\repos\TPs\TP3_ProgramacionVisual\Ejercicio08\obj\Debug\net8.0-windows\Ejercicio08.dll
+C:\Users\Blue\source\repos\TPs\TP3_ProgramacionVisual\Ejercicio08\obj\Debug\net8.0-windows\refint\Ejercicio08.dll
+C:\Users\Blue\source\repos\TPs\TP3_ProgramacionVisual\Ejercicio08\obj\Debug\net8.0-windows\Ejercicio08.pdb
+C:\Users\Blue\source\repos\TPs\TP3_ProgramacionVisual\Ejercicio08\obj\Debug\net8.0-windows\Ejercicio08.genruntimeconfig.cache
+C:\Users\Blue\source\repos\TPs\TP3_ProgramacionVisual\Ejercicio08\obj\Debug\net8.0-windows\ref\Ejercicio08.dll
