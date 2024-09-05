@@ -1,0 +1,17 @@
+C:\Users\Blue\source\repos\TPs\TP0_ControlesDeUsuario\ControlesDeUsuario\Ejemplo02\bin\Debug\net8.0-windows\Ejemplo02.exe
+C:\Users\Blue\source\repos\TPs\TP0_ControlesDeUsuario\ControlesDeUsuario\Ejemplo02\bin\Debug\net8.0-windows\Ejemplo02.deps.json
+C:\Users\Blue\source\repos\TPs\TP0_ControlesDeUsuario\ControlesDeUsuario\Ejemplo02\bin\Debug\net8.0-windows\Ejemplo02.runtimeconfig.json
+C:\Users\Blue\source\repos\TPs\TP0_ControlesDeUsuario\ControlesDeUsuario\Ejemplo02\bin\Debug\net8.0-windows\Ejemplo02.dll
+C:\Users\Blue\source\repos\TPs\TP0_ControlesDeUsuario\ControlesDeUsuario\Ejemplo02\bin\Debug\net8.0-windows\Ejemplo02.pdb
+C:\Users\Blue\source\repos\TPs\TP0_ControlesDeUsuario\ControlesDeUsuario\Ejemplo02\obj\Debug\net8.0-windows\Ejemplo02.csproj.GenerateResource.cache
+C:\Users\Blue\source\repos\TPs\TP0_ControlesDeUsuario\ControlesDeUsuario\Ejemplo02\obj\Debug\net8.0-windows\Ejemplo02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Blue\source\repos\TPs\TP0_ControlesDeUsuario\ControlesDeUsuario\Ejemplo02\obj\Debug\net8.0-windows\Ejemplo02.AssemblyInfoInputs.cache
+C:\Users\Blue\source\repos\TPs\TP0_ControlesDeUsuario\ControlesDeUsuario\Ejemplo02\obj\Debug\net8.0-windows\Ejemplo02.AssemblyInfo.cs
+C:\Users\Blue\source\repos\TPs\TP0_ControlesDeUsuario\ControlesDeUsuario\Ejemplo02\obj\Debug\net8.0-windows\Ejemplo02.csproj.CoreCompileInputs.cache
+C:\Users\Blue\source\repos\TPs\TP0_ControlesDeUsuario\ControlesDeUsuario\Ejemplo02\obj\Debug\net8.0-windows\Ejemplo02.sourcelink.json
+C:\Users\Blue\source\repos\TPs\TP0_ControlesDeUsuario\ControlesDeUsuario\Ejemplo02\obj\Debug\net8.0-windows\Ejemplo02.dll
+C:\Users\Blue\source\repos\TPs\TP0_ControlesDeUsuario\ControlesDeUsuario\Ejemplo02\obj\Debug\net8.0-windows\refint\Ejemplo02.dll
+C:\Users\Blue\source\repos\TPs\TP0_ControlesDeUsuario\ControlesDeUsuario\Ejemplo02\obj\Debug\net8.0-windows\Ejemplo02.pdb
+C:\Users\Blue\source\repos\TPs\TP0_ControlesDeUsuario\ControlesDeUsuario\Ejemplo02\obj\Debug\net8.0-windows\Ejemplo02.genruntimeconfig.cache
+C:\Users\Blue\source\repos\TPs\TP0_ControlesDeUsuario\ControlesDeUsuario\Ejemplo02\obj\Debug\net8.0-windows\ref\Ejemplo02.dll
+C:\Users\Blue\source\repos\TPs\TP0_ControlesDeUsuario\ControlesDeUsuario\Ejemplo02\obj\Debug\net8.0-windows\Ejemplo02.frmCalculadoraDePlazoFijo.resources

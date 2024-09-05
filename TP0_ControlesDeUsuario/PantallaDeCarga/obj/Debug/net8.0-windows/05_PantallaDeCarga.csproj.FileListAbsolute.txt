@@ -1,0 +1,17 @@
+C:\Users\Blue\source\repos\TPs\TP0_ControlesDeUsuario\ControlesDeUsuario\Ejemplo05\bin\Debug\net8.0-windows\05_PantallaDeCarga.exe
+C:\Users\Blue\source\repos\TPs\TP0_ControlesDeUsuario\ControlesDeUsuario\Ejemplo05\bin\Debug\net8.0-windows\05_PantallaDeCarga.deps.json
+C:\Users\Blue\source\repos\TPs\TP0_ControlesDeUsuario\ControlesDeUsuario\Ejemplo05\bin\Debug\net8.0-windows\05_PantallaDeCarga.runtimeconfig.json
+C:\Users\Blue\source\repos\TPs\TP0_ControlesDeUsuario\ControlesDeUsuario\Ejemplo05\bin\Debug\net8.0-windows\05_PantallaDeCarga.dll
+C:\Users\Blue\source\repos\TPs\TP0_ControlesDeUsuario\ControlesDeUsuario\Ejemplo05\bin\Debug\net8.0-windows\05_PantallaDeCarga.pdb
+C:\Users\Blue\source\repos\TPs\TP0_ControlesDeUsuario\ControlesDeUsuario\Ejemplo05\obj\Debug\net8.0-windows\Ejemplo05.frmCargando.resources
+C:\Users\Blue\source\repos\TPs\TP0_ControlesDeUsuario\ControlesDeUsuario\Ejemplo05\obj\Debug\net8.0-windows\05_PantallaDeCarga.csproj.GenerateResource.cache
+C:\Users\Blue\source\repos\TPs\TP0_ControlesDeUsuario\ControlesDeUsuario\Ejemplo05\obj\Debug\net8.0-windows\05_PantallaDeCarga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Blue\source\repos\TPs\TP0_ControlesDeUsuario\ControlesDeUsuario\Ejemplo05\obj\Debug\net8.0-windows\05_PantallaDeCarga.AssemblyInfoInputs.cache
+C:\Users\Blue\source\repos\TPs\TP0_ControlesDeUsuario\ControlesDeUsuario\Ejemplo05\obj\Debug\net8.0-windows\05_PantallaDeCarga.AssemblyInfo.cs
+C:\Users\Blue\source\repos\TPs\TP0_ControlesDeUsuario\ControlesDeUsuario\Ejemplo05\obj\Debug\net8.0-windows\05_PantallaDeCarga.csproj.CoreCompileInputs.cache
+C:\Users\Blue\source\repos\TPs\TP0_ControlesDeUsuario\ControlesDeUsuario\Ejemplo05\obj\Debug\net8.0-windows\05_PantallaDeCarga.sourcelink.json
+C:\Users\Blue\source\repos\TPs\TP0_ControlesDeUsuario\ControlesDeUsuario\Ejemplo05\obj\Debug\net8.0-windows\05_PantallaDeCarga.dll
+C:\Users\Blue\source\repos\TPs\TP0_ControlesDeUsuario\ControlesDeUsuario\Ejemplo05\obj\Debug\net8.0-windows\refint\05_PantallaDeCarga.dll
+C:\Users\Blue\source\repos\TPs\TP0_ControlesDeUsuario\ControlesDeUsuario\Ejemplo05\obj\Debug\net8.0-windows\05_PantallaDeCarga.pdb
+C:\Users\Blue\source\repos\TPs\TP0_ControlesDeUsuario\ControlesDeUsuario\Ejemplo05\obj\Debug\net8.0-windows\05_PantallaDeCarga.genruntimeconfig.cache
+C:\Users\Blue\source\repos\TPs\TP0_ControlesDeUsuario\ControlesDeUsuario\Ejemplo05\obj\Debug\net8.0-windows\ref\05_PantallaDeCarga.dll

@@ -1,0 +1,17 @@
+C:\Users\Blue\source\repos\TPs\TP0_ControlesDeUsuario\ControlesDeUsuario\Ejemplo04\bin\Debug\net8.0-windows\Ejemplo04.exe
+C:\Users\Blue\source\repos\TPs\TP0_ControlesDeUsuario\ControlesDeUsuario\Ejemplo04\bin\Debug\net8.0-windows\Ejemplo04.deps.json
+C:\Users\Blue\source\repos\TPs\TP0_ControlesDeUsuario\ControlesDeUsuario\Ejemplo04\bin\Debug\net8.0-windows\Ejemplo04.runtimeconfig.json
+C:\Users\Blue\source\repos\TPs\TP0_ControlesDeUsuario\ControlesDeUsuario\Ejemplo04\bin\Debug\net8.0-windows\Ejemplo04.dll
+C:\Users\Blue\source\repos\TPs\TP0_ControlesDeUsuario\ControlesDeUsuario\Ejemplo04\bin\Debug\net8.0-windows\Ejemplo04.pdb
+C:\Users\Blue\source\repos\TPs\TP0_ControlesDeUsuario\ControlesDeUsuario\Ejemplo04\obj\Debug\net8.0-windows\Ejemplo04.csproj.GenerateResource.cache
+C:\Users\Blue\source\repos\TPs\TP0_ControlesDeUsuario\ControlesDeUsuario\Ejemplo04\obj\Debug\net8.0-windows\Ejemplo04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Blue\source\repos\TPs\TP0_ControlesDeUsuario\ControlesDeUsuario\Ejemplo04\obj\Debug\net8.0-windows\Ejemplo04.AssemblyInfoInputs.cache
+C:\Users\Blue\source\repos\TPs\TP0_ControlesDeUsuario\ControlesDeUsuario\Ejemplo04\obj\Debug\net8.0-windows\Ejemplo04.AssemblyInfo.cs
+C:\Users\Blue\source\repos\TPs\TP0_ControlesDeUsuario\ControlesDeUsuario\Ejemplo04\obj\Debug\net8.0-windows\Ejemplo04.csproj.CoreCompileInputs.cache
+C:\Users\Blue\source\repos\TPs\TP0_ControlesDeUsuario\ControlesDeUsuario\Ejemplo04\obj\Debug\net8.0-windows\Ejemplo04.sourcelink.json
+C:\Users\Blue\source\repos\TPs\TP0_ControlesDeUsuario\ControlesDeUsuario\Ejemplo04\obj\Debug\net8.0-windows\Ejemplo04.dll
+C:\Users\Blue\source\repos\TPs\TP0_ControlesDeUsuario\ControlesDeUsuario\Ejemplo04\obj\Debug\net8.0-windows\refint\Ejemplo04.dll
+C:\Users\Blue\source\repos\TPs\TP0_ControlesDeUsuario\ControlesDeUsuario\Ejemplo04\obj\Debug\net8.0-windows\Ejemplo04.pdb
+C:\Users\Blue\source\repos\TPs\TP0_ControlesDeUsuario\ControlesDeUsuario\Ejemplo04\obj\Debug\net8.0-windows\Ejemplo04.genruntimeconfig.cache
+C:\Users\Blue\source\repos\TPs\TP0_ControlesDeUsuario\ControlesDeUsuario\Ejemplo04\obj\Debug\net8.0-windows\ref\Ejemplo04.dll
+C:\Users\Blue\source\repos\TPs\TP0_ControlesDeUsuario\ControlesDeUsuario\Ejemplo04\obj\Debug\net8.0-windows\Ejemplo04.frmNodos.resources
