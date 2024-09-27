@@ -1,0 +1,17 @@
+C:\Users\Blue\source\repos\TPs\TPC_Recursividad\Ejercicio03\bin\Debug\net8.0-windows\Ejercicio03.exe
+C:\Users\Blue\source\repos\TPs\TPC_Recursividad\Ejercicio03\bin\Debug\net8.0-windows\Ejercicio03.deps.json
+C:\Users\Blue\source\repos\TPs\TPC_Recursividad\Ejercicio03\bin\Debug\net8.0-windows\Ejercicio03.runtimeconfig.json
+C:\Users\Blue\source\repos\TPs\TPC_Recursividad\Ejercicio03\bin\Debug\net8.0-windows\Ejercicio03.dll
+C:\Users\Blue\source\repos\TPs\TPC_Recursividad\Ejercicio03\bin\Debug\net8.0-windows\Ejercicio03.pdb
+C:\Users\Blue\source\repos\TPs\TPC_Recursividad\Ejercicio03\obj\Debug\net8.0-windows\Ejercicio03.frmPotencia.resources
+C:\Users\Blue\source\repos\TPs\TPC_Recursividad\Ejercicio03\obj\Debug\net8.0-windows\Ejercicio03.csproj.GenerateResource.cache
+C:\Users\Blue\source\repos\TPs\TPC_Recursividad\Ejercicio03\obj\Debug\net8.0-windows\Ejercicio03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Blue\source\repos\TPs\TPC_Recursividad\Ejercicio03\obj\Debug\net8.0-windows\Ejercicio03.AssemblyInfoInputs.cache
+C:\Users\Blue\source\repos\TPs\TPC_Recursividad\Ejercicio03\obj\Debug\net8.0-windows\Ejercicio03.AssemblyInfo.cs
+C:\Users\Blue\source\repos\TPs\TPC_Recursividad\Ejercicio03\obj\Debug\net8.0-windows\Ejercicio03.csproj.CoreCompileInputs.cache
+C:\Users\Blue\source\repos\TPs\TPC_Recursividad\Ejercicio03\obj\Debug\net8.0-windows\Ejercicio03.sourcelink.json
+C:\Users\Blue\source\repos\TPs\TPC_Recursividad\Ejercicio03\obj\Debug\net8.0-windows\Ejercicio03.dll
+C:\Users\Blue\source\repos\TPs\TPC_Recursividad\Ejercicio03\obj\Debug\net8.0-windows\refint\Ejercicio03.dll
+C:\Users\Blue\source\repos\TPs\TPC_Recursividad\Ejercicio03\obj\Debug\net8.0-windows\Ejercicio03.pdb
+C:\Users\Blue\source\repos\TPs\TPC_Recursividad\Ejercicio03\obj\Debug\net8.0-windows\Ejercicio03.genruntimeconfig.cache
+C:\Users\Blue\source\repos\TPs\TPC_Recursividad\Ejercicio03\obj\Debug\net8.0-windows\ref\Ejercicio03.dll

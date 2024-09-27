@@ -1,0 +1,17 @@
+C:\Users\Blue\source\repos\TPs\TPC_Recursividad\Ejercicio12\bin\Debug\net8.0-windows\Ejercicio12.exe
+C:\Users\Blue\source\repos\TPs\TPC_Recursividad\Ejercicio12\bin\Debug\net8.0-windows\Ejercicio12.deps.json
+C:\Users\Blue\source\repos\TPs\TPC_Recursividad\Ejercicio12\bin\Debug\net8.0-windows\Ejercicio12.runtimeconfig.json
+C:\Users\Blue\source\repos\TPs\TPC_Recursividad\Ejercicio12\bin\Debug\net8.0-windows\Ejercicio12.dll
+C:\Users\Blue\source\repos\TPs\TPC_Recursividad\Ejercicio12\bin\Debug\net8.0-windows\Ejercicio12.pdb
+C:\Users\Blue\source\repos\TPs\TPC_Recursividad\Ejercicio12\obj\Debug\net8.0-windows\Ejercicio12.Form1.resources
+C:\Users\Blue\source\repos\TPs\TPC_Recursividad\Ejercicio12\obj\Debug\net8.0-windows\Ejercicio12.csproj.GenerateResource.cache
+C:\Users\Blue\source\repos\TPs\TPC_Recursividad\Ejercicio12\obj\Debug\net8.0-windows\Ejercicio12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Blue\source\repos\TPs\TPC_Recursividad\Ejercicio12\obj\Debug\net8.0-windows\Ejercicio12.AssemblyInfoInputs.cache
+C:\Users\Blue\source\repos\TPs\TPC_Recursividad\Ejercicio12\obj\Debug\net8.0-windows\Ejercicio12.AssemblyInfo.cs
+C:\Users\Blue\source\repos\TPs\TPC_Recursividad\Ejercicio12\obj\Debug\net8.0-windows\Ejercicio12.csproj.CoreCompileInputs.cache
+C:\Users\Blue\source\repos\TPs\TPC_Recursividad\Ejercicio12\obj\Debug\net8.0-windows\Ejercicio12.sourcelink.json
+C:\Users\Blue\source\repos\TPs\TPC_Recursividad\Ejercicio12\obj\Debug\net8.0-windows\Ejercicio12.dll
+C:\Users\Blue\source\repos\TPs\TPC_Recursividad\Ejercicio12\obj\Debug\net8.0-windows\refint\Ejercicio12.dll
+C:\Users\Blue\source\repos\TPs\TPC_Recursividad\Ejercicio12\obj\Debug\net8.0-windows\Ejercicio12.pdb
+C:\Users\Blue\source\repos\TPs\TPC_Recursividad\Ejercicio12\obj\Debug\net8.0-windows\Ejercicio12.genruntimeconfig.cache
+C:\Users\Blue\source\repos\TPs\TPC_Recursividad\Ejercicio12\obj\Debug\net8.0-windows\ref\Ejercicio12.dll
