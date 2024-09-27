@@ -1,0 +1,17 @@
+C:\Users\Blue\source\repos\TPs\TP5_Pilas\Ejercicio02\bin\Debug\net8.0-windows\Ejercicio02.exe
+C:\Users\Blue\source\repos\TPs\TP5_Pilas\Ejercicio02\bin\Debug\net8.0-windows\Ejercicio02.deps.json
+C:\Users\Blue\source\repos\TPs\TP5_Pilas\Ejercicio02\bin\Debug\net8.0-windows\Ejercicio02.runtimeconfig.json
+C:\Users\Blue\source\repos\TPs\TP5_Pilas\Ejercicio02\bin\Debug\net8.0-windows\Ejercicio02.dll
+C:\Users\Blue\source\repos\TPs\TP5_Pilas\Ejercicio02\bin\Debug\net8.0-windows\Ejercicio02.pdb
+C:\Users\Blue\source\repos\TPs\TP5_Pilas\Ejercicio02\obj\Debug\net8.0-windows\Ejercicio02.frmGestorDeRecorridos.resources
+C:\Users\Blue\source\repos\TPs\TP5_Pilas\Ejercicio02\obj\Debug\net8.0-windows\Ejercicio02.csproj.GenerateResource.cache
+C:\Users\Blue\source\repos\TPs\TP5_Pilas\Ejercicio02\obj\Debug\net8.0-windows\Ejercicio02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Blue\source\repos\TPs\TP5_Pilas\Ejercicio02\obj\Debug\net8.0-windows\Ejercicio02.AssemblyInfoInputs.cache
+C:\Users\Blue\source\repos\TPs\TP5_Pilas\Ejercicio02\obj\Debug\net8.0-windows\Ejercicio02.AssemblyInfo.cs
+C:\Users\Blue\source\repos\TPs\TP5_Pilas\Ejercicio02\obj\Debug\net8.0-windows\Ejercicio02.csproj.CoreCompileInputs.cache
+C:\Users\Blue\source\repos\TPs\TP5_Pilas\Ejercicio02\obj\Debug\net8.0-windows\Ejercicio02.sourcelink.json
+C:\Users\Blue\source\repos\TPs\TP5_Pilas\Ejercicio02\obj\Debug\net8.0-windows\Ejercicio02.dll
+C:\Users\Blue\source\repos\TPs\TP5_Pilas\Ejercicio02\obj\Debug\net8.0-windows\refint\Ejercicio02.dll
+C:\Users\Blue\source\repos\TPs\TP5_Pilas\Ejercicio02\obj\Debug\net8.0-windows\Ejercicio02.pdb
+C:\Users\Blue\source\repos\TPs\TP5_Pilas\Ejercicio02\obj\Debug\net8.0-windows\Ejercicio02.genruntimeconfig.cache
+C:\Users\Blue\source\repos\TPs\TP5_Pilas\Ejercicio02\obj\Debug\net8.0-windows\ref\Ejercicio02.dll
