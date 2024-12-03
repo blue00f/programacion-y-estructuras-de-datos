@@ -1,0 +1,21 @@
+10292837;Sergio;Almirón
+12928398;Ricardo;Bochini
+11092389;Claudio;Borghi
+10929389;José Luis;Brown
+10292938;Daniel;Passarella
+12948299;Jorge;Burruchaga
+11829488;Héctor;Enrique
+13994829;Luis;Islas
+14281829;Jorge;Valdano
+13929484;Ricardo;Giusti
+14488819;Julio;Olarticoechea
+15588218;Oscar;Garré
+15728198;Carlos;Tapia
+14218899;Nery;Pumpido
+16248918;Pedro;Pasculli
+12449928;José Daniel;Carreño
+14496785;Oscar;Ruggeri
+17828198;Sergio;Batista
+10108287;Diego;Maradona
+13921988;Héctor;Zelada
+14818928;José;Cuciuffo

@@ -1,0 +1,4 @@
+1;Eduardo;Pesado
+2;Santiago;Mediano
+4;Lucho;Liviano
+5;Homero;Pesado
