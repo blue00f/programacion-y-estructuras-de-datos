@@ -1,0 +1,3 @@
+﻿Corte de control por vendedor  y total general.
+Ordenar previamente el archivo por vendedor.
+

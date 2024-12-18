@@ -1,0 +1,8 @@
+Ana,Taza,2000
+Ana,Termo 1L,1000
+Ana,Termo 1L,5000
+Juan,Cuaderno,2000
+Juan,Taza,500
+Juan,Taza,1500
+Pedro,Termo 1L,6000
+Pedro,Termo 1L,1000

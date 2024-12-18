@@ -1,0 +1,4 @@
+﻿Corte de control por vendedor y total general.
+Aparear el archivo de ventas con el de vendedores. 
+Mostar en el CC los nombres de los vendedores.
+

@@ -1,0 +1,3 @@
+﻿Corte de control por vendedor producto y total general.
+Que se vean los subtotales de cantidades e importes en pesos.
+Las cantidades están en tercer lugar en el registro.

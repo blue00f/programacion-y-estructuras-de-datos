@@ -1,0 +1,1 @@
+﻿Corte de control por producto, vendedor y total general.

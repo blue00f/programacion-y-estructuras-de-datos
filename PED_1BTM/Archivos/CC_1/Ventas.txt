@@ -1,0 +1,8 @@
+Ana,1000
+Ana,5000
+Ana,2000
+Juan,500
+Juan,1500
+Juan,2000
+Pedro,6000
+Pedro,1000
